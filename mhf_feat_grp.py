@@ -126,6 +126,7 @@ if __name__ == '__main__':
 
     input_features = FEATURES_INPUT
 
+
     """
     features = load_heart_attack_features("feature.csv")
     groups = load_heart_attack_feature_groups("feature_group.csv")
